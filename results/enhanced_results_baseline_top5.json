@@ -1,0 +1,3202 @@
+[
+  {
+    "qid": 0,
+    "question": "Was Abraham Lincoln the sixteenth President of the United States?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      299,
+      692,
+      181,
+      316,
+      276
+    ],
+    "conf": 0.9999638795852661,
+    "margin": 9.775161743164062e-06,
+    "low_conf": true
+  },
+  {
+    "qid": 2,
+    "question": "Did Lincoln sign the National Banking Act of 1863?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      1767,
+      347,
+      377,
+      289,
+      276
+    ],
+    "conf": 0.9950146079063416,
+    "margin": 0.04712998867034912,
+    "low_conf": true
+  },
+  {
+    "qid": 4,
+    "question": "Did his mother die of pneumonia?",
+    "prediction": "I don't know.",
+    "gold": "no",
+    "context_ids": [
+      2810,
+      2448,
+      693,
+      1890,
+      2091
+    ],
+    "conf": 0.04899289831519127,
+    "margin": 0.03325298987329006,
+    "low_conf": true
+  },
+  {
+    "qid": 6,
+    "question": "How many long was Lincoln's formal education?",
+    "prediction": "I don't know.",
+    "gold": "18 months",
+    "context_ids": [
+      347,
+      284,
+      286,
+      289,
+      357
+    ],
+    "conf": 0.9996320009231567,
+    "margin": 0.0006630420684814453,
+    "low_conf": true
+  },
+  {
+    "qid": 8,
+    "question": "When did Lincoln begin his political career?",
+    "prediction": "I don't know.",
+    "gold": "1832",
+    "context_ids": [
+      297,
+      347,
+      276,
+      289,
+      318
+    ],
+    "conf": 0.9998729228973389,
+    "margin": 9.268522262573242e-05,
+    "low_conf": true
+  },
+  {
+    "qid": 10,
+    "question": "What did The Legal Tender Act of 1862 establish?",
+    "prediction": "[358] The Legal Tender Act of 1862 established the United States Note, the first paper currency in United States history. This was done to increase the money supply to pay for fighting the war. [1784] Grant's legacy has been marred by charges of anti-Semitism. The most frequently cited example is the infamous General Order No. 11, issued by Grant's headquarters in Oxford, Mississippi, on December 17, 1862, during the early Vicksburg Campaign. The order stated in part: [306] In a speech against the act, on October 16 1854",
+    "gold": "the United States Note, the first paper currency in United States history",
+    "context_ids": [
+      358,
+      1784,
+      306,
+      349,
+      489
+    ],
+    "conf": 0.9989031553268433,
+    "margin": 0.7010316550731659,
+    "low_conf": false
+  },
+  {
+    "qid": 12,
+    "question": "Who suggested Lincoln grow a beard?",
+    "prediction": "[379] Young Abraham Lincoln [284]",
+    "gold": "11-year-old Grace Bedell",
+    "context_ids": [
+      379,
+      347,
+      299,
+      285,
+      284
+    ],
+    "conf": 0.9320347309112549,
+    "margin": 0.5850856602191925,
+    "low_conf": false
+  },
+  {
+    "qid": 14,
+    "question": "When did the Gettysburg address argue that America was born?",
+    "prediction": "American, Lincoln articulated better than anyone else the rationale behind the Union cause.",
+    "gold": "1776",
+    "context_ids": [
+      352,
+      355,
+      306,
+      275,
+      338
+    ],
+    "conf": 0.6667852401733398,
+    "margin": 0.3534776568412781,
+    "low_conf": false
+  },
+  {
+    "qid": 16,
+    "question": "Did Lincoln beat John C. Breckinridge in the 1860 election?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      181,
+      299,
+      316,
+      286,
+      332
+    ],
+    "conf": 0.9998370409011841,
+    "margin": 8.243322372436523e-05,
+    "low_conf": true
+  },
+  {
+    "qid": 18,
+    "question": "Was Abraham Lincoln the first President of the United States?",
+    "prediction": "I don't know.",
+    "gold": "No",
+    "context_ids": [
+      286,
+      470,
+      338,
+      692,
+      276
+    ],
+    "conf": 0.9999666213989258,
+    "margin": 0.0,
+    "low_conf": true
+  },
+  {
+    "qid": 20,
+    "question": "Did Lincoln start his political career in 1832?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      347,
+      332,
+      289,
+      286,
+      474
+    ],
+    "conf": 0.9999567270278931,
+    "margin": 0.0006315708160400391,
+    "low_conf": true
+  },
+  {
+    "qid": 22,
+    "question": "Did Lincoln ever represent Alton & Sangamon Railroad?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      347,
+      286,
+      301,
+      283,
+      275
+    ],
+    "conf": 0.9763432145118713,
+    "margin": 0.00247269868850708,
+    "low_conf": true
+  },
+  {
+    "qid": 24,
+    "question": "Which county was Lincoln born in?",
+    "prediction": "I don't know.",
+    "gold": "Hardin County",
+    "context_ids": [
+      283,
+      279,
+      286,
+      386,
+      383
+    ],
+    "conf": 0.9549395442008972,
+    "margin": 0.032244741916656494,
+    "low_conf": true
+  },
+  {
+    "qid": 26,
+    "question": "When did Lincoln first serve as President?",
+    "prediction": "I don't know.",
+    "gold": "March 4, 1861",
+    "context_ids": [
+      286,
+      276,
+      319,
+      338,
+      354
+    ],
+    "conf": 0.9999666213989258,
+    "margin": 1.1920928955078125e-07,
+    "low_conf": true
+  },
+  {
+    "qid": 28,
+    "question": "Who assassinated Lincoln?",
+    "prediction": "I don't know.",
+    "gold": "John Wilkes Booth",
+    "context_ids": [
+      356,
+      367,
+      364,
+      361,
+      325
+    ],
+    "conf": 0.999919056892395,
+    "margin": 0.000962376594543457,
+    "low_conf": true
+  },
+  {
+    "qid": 30,
+    "question": "Did Lincoln win the election of 1860?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      299,
+      276,
+      332,
+      181,
+      175
+    ],
+    "conf": 0.9998822212219238,
+    "margin": 0.0004904270172119141,
+    "low_conf": true
+  },
+  {
+    "qid": 32,
+    "question": "Who was the general in charge at the Battle of Antietam?",
+    "prediction": "I don't know.",
+    "gold": "General McClellan",
+    "context_ids": [
+      1755,
+      1748,
+      1739,
+      333,
+      344
+    ],
+    "conf": 0.9998468160629272,
+    "margin": 9.065866470336914e-05,
+    "low_conf": true
+  },
+  {
+    "qid": 34,
+    "question": "Why did Lincoln issue the Emancipation Proclamation?",
+    "prediction": "I don't know.",
+    "gold": "To free slaves ",
+    "context_ids": [
+      329,
+      356,
+      275,
+      276,
+      377
+    ],
+    "conf": 0.988097071647644,
+    "margin": 0.001952528953552246,
+    "low_conf": true
+  },
+  {
+    "qid": 37,
+    "question": "Do scholars rank lincoln among the top three presidents?",
+    "prediction": "[347] * Williams, T. Harry. Lincoln and His Generals (1967).",
+    "gold": "Yes",
+    "context_ids": [
+      2798,
+      278,
+      391,
+      347,
+      316
+    ],
+    "conf": 0.6199414134025574,
+    "margin": 0.24029541015625,
+    "low_conf": false
+  },
+  {
+    "qid": 39,
+    "question": "Did lincoln have 18 months of schooling?",
+    "prediction": "Lincoln to the state legislature, he was elected to the House of Representatives.",
+    "gold": "Yes",
+    "context_ids": [
+      284,
+      283,
+      289,
+      347,
+      286
+    ],
+    "conf": 0.972571849822998,
+    "margin": 0.620369166135788,
+    "low_conf": false
+  },
+  {
+    "qid": 41,
+    "question": "Was Lincoln chosen as a presidential candidate in 1860?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      299,
+      307,
+      181,
+      276,
+      286
+    ],
+    "conf": 0.9994235038757324,
+    "margin": 0.00037938356399536133,
+    "low_conf": true
+  },
+  {
+    "qid": 43,
+    "question": "How old was Lincoln in 1816?",
+    "prediction": "[316]",
+    "gold": "seven",
+    "context_ids": [
+      364,
+      286,
+      316,
+      275,
+      347
+    ],
+    "conf": 0.9687680602073669,
+    "margin": 0.16345632076263428,
+    "low_conf": false
+  },
+  {
+    "qid": 45,
+    "question": "When was the first photgraph of lincoln taken?",
+    "prediction": "I don't know.",
+    "gold": "1846",
+    "context_ids": [
+      306,
+      313,
+      296,
+      319,
+      292
+    ],
+    "conf": 0.9980194568634033,
+    "margin": 0.007879912853240967,
+    "low_conf": true
+  },
+  {
+    "qid": 47,
+    "question": "How long was Lincoln's legal Career?",
+    "prediction": "I don't know.",
+    "gold": "23 years",
+    "context_ids": [
+      289,
+      2807,
+      286,
+      284,
+      347
+    ],
+    "conf": 0.9953356385231018,
+    "margin": 0.0006818175315856934,
+    "low_conf": true
+  },
+  {
+    "qid": 49,
+    "question": "What trail did Lincoln use a Farmers' Almanac in? ",
+    "prediction": "I don't know.",
+    "gold": "he defended William \"Duff\" Armstrong",
+    "context_ids": [
+      347,
+      286,
+      275,
+      283,
+      284
+    ],
+    "conf": 0.1756376475095749,
+    "margin": 0.09960455447435379,
+    "low_conf": true
+  },
+  {
+    "qid": 51,
+    "question": "Did Abraham Lincoln live in the Frontier?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      283,
+      347,
+      279,
+      281,
+      366
+    ],
+    "conf": 0.9997493624687195,
+    "margin": 0.012521564960479736,
+    "low_conf": true
+  },
+  {
+    "qid": 53,
+    "question": "Did Lincoln's Wife's Family support slavery?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      283,
+      276,
+      377,
+      356,
+      322
+    ],
+    "conf": 0.9993290901184082,
+    "margin": 0.004628181457519531,
+    "low_conf": true
+  },
+  {
+    "qid": 80,
+    "question": "Who is most noted for his contributions to the theory of molarity and molecular weight?",
+    "prediction": "[719]",
+    "gold": "Amedeo Avogadro",
+    "context_ids": [
+      719,
+      730,
+      735,
+      533,
+      733
+    ],
+    "conf": 0.9999663829803467,
+    "margin": 0.11569756269454956,
+    "low_conf": false
+  },
+  {
+    "qid": 83,
+    "question": "Who graduated in ecclesiastical law at the early age of 20 and began to practice?",
+    "prediction": "[403] After graduating from Amherst, at his father's urging, Coolidge moved to Northampton, Massachusetts to take up the practice of law.",
+    "gold": "Amedeo Avogadro",
+    "context_ids": [
+      721,
+      179,
+      403,
+      2071,
+      289
+    ],
+    "conf": 0.9988523721694946,
+    "margin": 0.7199901640415192,
+    "low_conf": false
+  },
+  {
+    "qid": 86,
+    "question": "When did he publish another memoria?",
+    "prediction": "I don't know.",
+    "gold": "1821",
+    "context_ids": [
+      1512,
+      737,
+      2591,
+      738,
+      733
+    ],
+    "conf": 0.8417085409164429,
+    "margin": 0.004302382469177246,
+    "low_conf": true
+  },
+  {
+    "qid": 89,
+    "question": "When did he become a professor?",
+    "prediction": "I don't know.",
+    "gold": "1820",
+    "context_ids": [
+      541,
+      722,
+      2196,
+      540,
+      1945
+    ],
+    "conf": 0.9998443126678467,
+    "margin": 0.0005052685737609863,
+    "low_conf": true
+  },
+  {
+    "qid": 92,
+    "question": "Is it true that he became a professor in 1820?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      541,
+      540,
+      1345,
+      2085,
+      179
+    ],
+    "conf": 0.999097466468811,
+    "margin": 0.00029468536376953125,
+    "low_conf": true
+  },
+  {
+    "qid": 95,
+    "question": "Was Lorenzo Romano Amedeo Carlo Avogadro an Italian savant?",
+    "prediction": "[719]",
+    "gold": "yes",
+    "context_ids": [
+      719,
+      720,
+      742,
+      718,
+      727
+    ],
+    "conf": 0.9999666213989258,
+    "margin": 0.433299720287323,
+    "low_conf": false
+  },
+  {
+    "qid": 98,
+    "question": "Was Amedeo Avogadro born in Turin August 9th 1776 to a noble ancient family of Piedmont, Italy?",
+    "prediction": "yes",
+    "gold": "yes",
+    "context_ids": [
+      720,
+      719,
+      718,
+      729,
+      727
+    ],
+    "conf": 0.9999665021896362,
+    "margin": 0.10043805837631226,
+    "low_conf": false
+  },
+  {
+    "qid": 101,
+    "question": "Is he most noted for his contributions to the theory of molarity and molecular weight?",
+    "prediction": "Newton is generally credited with the generalized binomial theorem, valid for any exponent.",
+    "gold": "yes",
+    "context_ids": [
+      719,
+      730,
+      569,
+      545,
+      533
+    ],
+    "conf": 0.9999665021896362,
+    "margin": 0.4125903248786926,
+    "low_conf": false
+  },
+  {
+    "qid": 115,
+    "question": "Was King Victor Emmanuel III there to pay homage to Avogadro ?",
+    "prediction": "Count of Quaregna and Cerreto.",
+    "gold": "yes",
+    "context_ids": [
+      742,
+      732,
+      719,
+      726,
+      729
+    ],
+    "conf": 0.9835742712020874,
+    "margin": 0.4245414137840271,
+    "low_conf": false
+  },
+  {
+    "qid": 118,
+    "question": "Is Avogadro 's number commonly used to compute the results of chemical reactions ?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      731,
+      719,
+      730,
+      734,
+      740
+    ],
+    "conf": 0.9999021291732788,
+    "margin": 0.0067694783210754395,
+    "low_conf": true
+  },
+  {
+    "qid": 123,
+    "question": "Did the scientific community not reserve great attention to his theory ?",
+    "prediction": "Newtonian telescope, he solved the problem of dispersion of light into colours.",
+    "gold": "yes",
+    "context_ids": [
+      541,
+      1402,
+      235,
+      550,
+      532
+    ],
+    "conf": 0.9092937111854553,
+    "margin": 0.1446734070777893,
+    "low_conf": false
+  },
+  {
+    "qid": 131,
+    "question": "Can the title of this famous 1811 paper be roughly translated into english?",
+    "prediction": "yes",
+    "gold": "yes",
+    "context_ids": [
+      723,
+      742,
+      1512,
+      554,
+      272
+    ],
+    "conf": 0.998794674873352,
+    "margin": 0.22807574272155762,
+    "low_conf": false
+  },
+  {
+    "qid": 136,
+    "question": "What happened in 1833?",
+    "prediction": "The Panic of 1873 hit the country hard during his presidency, and he never attempted decisive action, one way or the other, to alleviate distress.",
+    "gold": "Avogadro had been recalled to Turin university",
+    "context_ids": [
+      361,
+      843,
+      1767,
+      728,
+      306
+    ],
+    "conf": 0.6337187886238098,
+    "margin": 0.4667697995901108,
+    "low_conf": false
+  },
+  {
+    "qid": 139,
+    "question": "Who determined the dependence of the boiling of water with atmospheric pressure?",
+    "prediction": "I don't know.",
+    "gold": "Anders Celsius",
+    "context_ids": [
+      226,
+      1895,
+      142,
+      260,
+      202
+    ],
+    "conf": 0.937114417552948,
+    "margin": 0.03027123212814331,
+    "low_conf": true
+  },
+  {
+    "qid": 140,
+    "question": "What is named after him?",
+    "prediction": "Lincoln Memorial in Washington, D.C., the U.S. Lincoln $5 bill and the Lincoln cent, Lincoln's sculpture on the Mount Rushmore, and the Lincoln Home National Historic Site in Springfield, Illinois.",
+    "gold": "The Celsius crater on the Moon",
+    "context_ids": [
+      260,
+      2985,
+      382,
+      1257,
+      1246
+    ],
+    "conf": 0.6081415414810181,
+    "margin": 0.3423234522342682,
+    "low_conf": false
+  },
+  {
+    "qid": 141,
+    "question": "When did he publish a collection?",
+    "prediction": "Since his death, Faraday's diary has been published, as have several large volumes of his letters and Faraday's journal from his travels with Davy in 1813 - 1815.",
+    "gold": "1733",
+    "context_ids": [
+      1512,
+      2591,
+      126,
+      590,
+      2182
+    ],
+    "conf": 0.9987748265266418,
+    "margin": 0.2429753541946411,
+    "low_conf": false
+  },
+  {
+    "qid": 142,
+    "question": "Is it true that he published a collection in 1738?",
+    "prediction": "no",
+    "gold": "No",
+    "context_ids": [
+      1512,
+      554,
+      567,
+      262,
+      215
+    ],
+    "conf": 0.7248846888542175,
+    "margin": 0.07541787624359131,
+    "low_conf": false
+  },
+  {
+    "qid": 143,
+    "question": "Is it true that thermometer had 100 for the freezing point?",
+    "prediction": "[2565]",
+    "gold": "Yes",
+    "context_ids": [
+      969,
+      141,
+      2268,
+      139,
+      2565
+    ],
+    "conf": 0.9758524298667908,
+    "margin": 0.462830126285553,
+    "low_conf": false
+  },
+  {
+    "qid": 144,
+    "question": "Was Celsius born in Uppsala in Sweden?",
+    "prediction": "Yes.",
+    "gold": "Yes",
+    "context_ids": [
+      138,
+      139,
+      141,
+      1503,
+      1514
+    ],
+    "conf": 0.4573010504245758,
+    "margin": 0.07254892587661743,
+    "low_conf": false
+  },
+  {
+    "qid": 145,
+    "question": "Was Anders Celsius (November 27, 1701 April 25, 1744) a Swedish astronomer?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      138,
+      139,
+      531,
+      142,
+      141
+    ],
+    "conf": 0.9999665021896362,
+    "margin": 0.0035648345947265625,
+    "low_conf": true
+  },
+  {
+    "qid": 146,
+    "question": "Is The Celsius crater on the Moon named after him?",
+    "prediction": "yes",
+    "gold": "Yes",
+    "context_ids": [
+      144,
+      429,
+      2413,
+      2306,
+      137
+    ],
+    "conf": 0.9987509250640869,
+    "margin": 0.3042636513710022,
+    "low_conf": false
+  },
+  {
+    "qid": 147,
+    "question": "Who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?",
+    "prediction": "[142] * Richard de Villamil. Newton, The man. G.D. Knox, London, 1931. Preface by Albert Einstein. Reprinted by Johnson Reprint Corporation, New York (1972).",
+    "gold": "Anders Celsius",
+    "context_ids": [
+      142,
+      234,
+      141,
+      608,
+      543
+    ],
+    "conf": 0.9999650716781616,
+    "margin": 0.9716674704104662,
+    "low_conf": false
+  },
+  {
+    "qid": 148,
+    "question": "The Celsius crater on the Moon is what?",
+    "prediction": "named after him.",
+    "gold": "named after him",
+    "context_ids": [
+      144,
+      1471,
+      820,
+      2201,
+      968
+    ],
+    "conf": 0.41417378187179565,
+    "margin": 0.40144761838018894,
+    "low_conf": false
+  },
+  {
+    "qid": 149,
+    "question": "Is the Celsius crater on the Moon named after him ?",
+    "prediction": "Yes.",
+    "gold": "Yes",
+    "context_ids": [
+      144,
+      429,
+      2413,
+      2306,
+      1789
+    ],
+    "conf": 0.9973530769348145,
+    "margin": 0.2540992498397827,
+    "low_conf": false
+  },
+  {
+    "qid": 150,
+    "question": "Had his thermometer 100 for the freezing point of water and 0 for the boiling point ?",
+    "prediction": "His thermometer had 100 for the freezing point of water and 0 for the boiling point.",
+    "gold": "Yes it had",
+    "context_ids": [
+      141,
+      142,
+      139,
+      138,
+      144
+    ],
+    "conf": 0.9999232292175293,
+    "margin": 0.904912680387497,
+    "low_conf": false
+  },
+  {
+    "qid": 151,
+    "question": "Was Celsius born in Uppsala in Sweden ?",
+    "prediction": "[139] Celsius was born in Uppsala in Sweden.",
+    "gold": "Yes",
+    "context_ids": [
+      138,
+      139,
+      141,
+      1503,
+      1514
+    ],
+    "conf": 0.399609237909317,
+    "margin": 0.14210224151611328,
+    "low_conf": false
+  },
+  {
+    "qid": 153,
+    "question": "Did he not determine the dependence of the boiling of water with atmospheric pressure -LRB- in excellent agreement with modern data -RRB- ?",
+    "prediction": "hydrodynamics and hydrostatics.",
+    "gold": "Yes he did",
+    "context_ids": [
+      142,
+      226,
+      202,
+      141,
+      741
+    ],
+    "conf": 0.9947894811630249,
+    "margin": 0.9934696038253605,
+    "low_conf": false
+  },
+  {
+    "qid": 154,
+    "question": "What happened from 1730 to 1744?",
+    "prediction": "I don't know.",
+    "gold": "He was professor of astronomy at Uppsala University",
+    "context_ids": [
+      2216,
+      143,
+      2586,
+      559,
+      2215
+    ],
+    "conf": 0.12633711099624634,
+    "margin": 0.10625885054469109,
+    "low_conf": true
+  },
+  {
+    "qid": 155,
+    "question": "What happened in 1745?",
+    "prediction": "Count Alessandro Giuseppe Antonio Anastasio Volta",
+    "gold": "The scale was reversed",
+    "context_ids": [
+      361,
+      843,
+      2185,
+      615,
+      2586
+    ],
+    "conf": 0.7225918769836426,
+    "margin": 0.6039942428469658,
+    "low_conf": false
+  },
+  {
+    "qid": 156,
+    "question": "Are beetles insects?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      2359,
+      2304,
+      2352,
+      2360,
+      2358
+    ],
+    "conf": 0.9967947602272034,
+    "margin": 0.0035512447357177734,
+    "low_conf": true
+  },
+  {
+    "qid": 158,
+    "question": "Can beetles be found in polar regions?",
+    "prediction": "Coleoptera.",
+    "gold": "No",
+    "context_ids": [
+      2305,
+      2350,
+      2533,
+      2304,
+      2365
+    ],
+    "conf": 0.946485698223114,
+    "margin": 0.22970694303512573,
+    "low_conf": false
+  },
+  {
+    "qid": 160,
+    "question": "Do beetles antennae function primarily as organs of smell?",
+    "prediction": "[2315]",
+    "gold": "Yes",
+    "context_ids": [
+      2315,
+      1036,
+      2329,
+      2319,
+      2334
+    ],
+    "conf": 0.998201847076416,
+    "margin": 0.5279907584190369,
+    "low_conf": false
+  },
+  {
+    "qid": 162,
+    "question": "What are the three sections of a beetle?",
+    "prediction": "I don't know.",
+    "gold": "the head, the thorax, and the abdomen",
+    "context_ids": [
+      2310,
+      2344,
+      2311,
+      1869,
+      2352
+    ],
+    "conf": 0.9999586343765259,
+    "margin": 0.0072002410888671875,
+    "low_conf": true
+  },
+  {
+    "qid": 164,
+    "question": "Which defense mechanism uses colour or shape to deceive potential enemies?",
+    "prediction": "mimicry.",
+    "gold": "mimicry",
+    "context_ids": [
+      2336,
+      2335,
+      2337,
+      1011,
+      2675
+    ],
+    "conf": 0.9975749850273132,
+    "margin": 0.37000781297683716,
+    "low_conf": false
+  },
+  {
+    "qid": 166,
+    "question": "Which type of beetle is a pest of potato plants?",
+    "prediction": "[2353] What are the two types of beetles?",
+    "gold": "Colorado potato beetle",
+    "context_ids": [
+      2353,
+      2305,
+      2326,
+      2308,
+      2352
+    ],
+    "conf": 0.9996695518493652,
+    "margin": 0.30657219886779785,
+    "low_conf": false
+  },
+  {
+    "qid": 168,
+    "question": "How can beetle larvae be differentiated from other insect larvae?",
+    "prediction": "[2324] Beetle larvae can be differentiated from other insect larvae by their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body. Like adult beetles, the larvae are varied in appearance, particularly between beetle families. Beetles whose larvae are somewhat flattened and are highly mobile are the ground beetles, some rove beetles, and others; their larvae are described as campodeiform. Some beetle larvae",
+    "gold": "their hardened, often darkened head, the presence of chewing mouthparts, and spiracles along the sides of the body",
+    "context_ids": [
+      2324,
+      2323,
+      2334,
+      2325,
+      2350
+    ],
+    "conf": 0.9998725652694702,
+    "margin": 0.4442089796066284,
+    "low_conf": false
+  },
+  {
+    "qid": 170,
+    "question": "What do beetles eat?",
+    "prediction": "I don't know.",
+    "gold": "Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.",
+    "context_ids": [
+      2305,
+      2359,
+      2358,
+      2323,
+      2352
+    ],
+    "conf": 0.9983174800872803,
+    "margin": 0.005365550518035889,
+    "low_conf": true
+  },
+  {
+    "qid": 172,
+    "question": "What are the similarities between beetles and grasshoppers?",
+    "prediction": "[2313] Beetles have mouthparts similar to those of grasshoppers. Of these parts, the most commonly known are probably the mandibles, which appear as large pincers on the front of some beetles.",
+    "gold": "mouthparts",
+    "context_ids": [
+      2313,
+      2304,
+      2305,
+      2311,
+      2352
+    ],
+    "conf": 0.9804510474205017,
+    "margin": 0.11394387483596802,
+    "low_conf": false
+  },
+  {
+    "qid": 174,
+    "question": "Are certain species of beetles considered pests?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      2352,
+      2305,
+      2337,
+      2334,
+      2355
+    ],
+    "conf": 0.9983739852905273,
+    "margin": 0.021347463130950928,
+    "low_conf": true
+  },
+  {
+    "qid": 176,
+    "question": "Is a beetle's general anatomy uniform?",
+    "prediction": "[2310]",
+    "gold": "Yes",
+    "context_ids": [
+      2310,
+      2311,
+      2350,
+      2304,
+      2313
+    ],
+    "conf": 0.9978287816047668,
+    "margin": 0.16130989789962769,
+    "low_conf": false
+  },
+  {
+    "qid": 178,
+    "question": "Are beetles endopterygotes?",
+    "prediction": "[2321]",
+    "gold": "yes",
+    "context_ids": [
+      2304,
+      2326,
+      2352,
+      2350,
+      2321
+    ],
+    "conf": 0.8872706294059753,
+    "margin": 0.32638078927993774,
+    "low_conf": false
+  },
+  {
+    "qid": 180,
+    "question": "How many species of beetles are there?",
+    "prediction": "I don't know.",
+    "gold": "350,000",
+    "context_ids": [
+      2304,
+      2350,
+      1060,
+      2345,
+      2344
+    ],
+    "conf": 0.999847412109375,
+    "margin": 0.0001728534698486328,
+    "low_conf": true
+  },
+  {
+    "qid": 182,
+    "question": "When are sperm cells transferred to the female?",
+    "prediction": "[1001] Usually, the instinct to reproduce drives young wolves away from their birth packs, leading them to seek out mates and territories of their own. [1003] When the alpha female goes into estrus (which occurs once per year and lasts 5 14 days), she and her mate will spend an extended time in seclusion.",
+    "gold": "during pairing",
+    "context_ids": [
+      1213,
+      1001,
+      1003,
+      1004,
+      1698
+    ],
+    "conf": 0.349361777305603,
+    "margin": 0.2472422793507576,
+    "low_conf": false
+  },
+  {
+    "qid": 184,
+    "question": "What is the study of beetles called?",
+    "prediction": "I don't know.",
+    "gold": "coleopterology",
+    "context_ids": [
+      2368,
+      2367,
+      2304,
+      2369,
+      2352
+    ],
+    "conf": 0.9942250847816467,
+    "margin": 0.02180081605911255,
+    "low_conf": true
+  },
+  {
+    "qid": 186,
+    "question": "Is it possible that there are more than 350,000 species of beetles?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      2350,
+      2304,
+      2345,
+      2305,
+      2352
+    ],
+    "conf": 0.9968787431716919,
+    "margin": 0.0014126300811767578,
+    "low_conf": true
+  },
+  {
+    "qid": 188,
+    "question": "Is the Adephaga suborder larger than the Polyphaga suborder?",
+    "prediction": "[2345] * Polyphaga is the largest suborder, containing more than 300,000 described species in more than 170 families, including rove beetles (Staphylinidae), scarab beetles (Scarabaeidae), blister beetles (Meloidae), stag beetles (Lucanidae) and true weevils (Curculionidae). These beetles can be identified by the cervical sclerites (hardened parts of",
+    "gold": "no",
+    "context_ids": [
+      2345,
+      2349,
+      1045,
+      2346,
+      2399
+    ],
+    "conf": 0.947218120098114,
+    "margin": 0.5569167733192444,
+    "low_conf": false
+  },
+  {
+    "qid": 190,
+    "question": "Do carrion beetles eat dung?",
+    "prediction": "[2332]",
+    "gold": "no",
+    "context_ids": [
+      2340,
+      2364,
+      2332,
+      1169,
+      2352
+    ],
+    "conf": 0.9617033004760742,
+    "margin": 0.7543357908725739,
+    "low_conf": false
+  },
+  {
+    "qid": 192,
+    "question": "What are prey of various animals including birds and mammals?",
+    "prediction": "[3084]",
+    "gold": "Beetles.",
+    "context_ids": [
+      2305,
+      3084,
+      1120,
+      3089,
+      2613
+    ],
+    "conf": 0.9886422753334045,
+    "margin": 0.09714657068252563,
+    "low_conf": false
+  },
+  {
+    "qid": 193,
+    "question": "What was given by Aristotle for the hardened shield like forewings?",
+    "prediction": "Coleoptera",
+    "gold": "The name \"Coleoptera\".",
+    "context_ids": [
+      2306,
+      2311,
+      228,
+      553,
+      2413
+    ],
+    "conf": 0.999521017074585,
+    "margin": 0.9215437397360802,
+    "low_conf": false
+  },
+  {
+    "qid": 194,
+    "question": "Who or what vary greatly in form within the coleoptera?",
+    "prediction": "[2315] Beetles' antennae are primarily organs of smell, but may also be used to feel out a beetle's environment physically. They may also be used in some families during mating, or among a few beetles for defence. [2339] Besides being abundant and varied, the Coleoptera are able to exploit the wide diversity of food sources available in their many habitats. Some are generalists, eating both plants and animals. Other beetles are highly specialised in their diet.",
+    "gold": "Antennae.",
+    "context_ids": [
+      2315,
+      2339,
+      2304,
+      2370,
+      2306
+    ],
+    "conf": 0.9856224656105042,
+    "margin": 0.7161516547203064,
+    "low_conf": false
+  },
+  {
+    "qid": 195,
+    "question": "Are many beetles territorial?",
+    "prediction": "[2345] * Polyphaga is the largest suborder, containing more than 300,000 described species in more than 170 families, including rove beetles (Staphylinidae), scarab beetles (Scarabaeidae), blister beetles (Meloidae), stag beetles (Lucanidae) and true weevils (Curculionidae).",
+    "gold": "Yes.",
+    "context_ids": [
+      2350,
+      2330,
+      2344,
+      2304,
+      2345
+    ],
+    "conf": 0.6652824878692627,
+    "margin": 0.21810060739517212,
+    "low_conf": false
+  },
+  {
+    "qid": 196,
+    "question": "Are beetles endopterygotes with complete metamorphosis?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      2309,
+      2321,
+      1289,
+      2325,
+      2344
+    ],
+    "conf": 0.9992536902427673,
+    "margin": 0.00015550851821899414,
+    "low_conf": true
+  },
+  {
+    "qid": 197,
+    "question": "Oxygen is what?",
+    "prediction": "tracheal system.",
+    "gold": "One kind of gas obtained via a tracheal system.",
+    "context_ids": [
+      2318,
+      1410,
+      76,
+      1412,
+      1693
+    ],
+    "conf": 0.34226006269454956,
+    "margin": 0.3293619817122817,
+    "low_conf": false
+  },
+  {
+    "qid": 198,
+    "question": "Is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?",
+    "prediction": "[2369]",
+    "gold": "Yes.",
+    "context_ids": [
+      2369,
+      2367,
+      2352,
+      2361,
+      2305
+    ],
+    "conf": 0.9998866319656372,
+    "margin": 0.9836074002087116,
+    "low_conf": false
+  },
+  {
+    "qid": 199,
+    "question": "Have coleopterists formed organisations to facilitate the study of beetles ?",
+    "prediction": "[2370]",
+    "gold": "Yes.",
+    "context_ids": [
+      2367,
+      2369,
+      2368,
+      2304,
+      2370
+    ],
+    "conf": 0.9999569654464722,
+    "margin": 0.5646122694015503,
+    "low_conf": false
+  },
+  {
+    "qid": 200,
+    "question": "Is the study of beetles called coleopterology , and its practitioners are coleopterists ?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      2367,
+      2368,
+      2304,
+      2369,
+      2339
+    ],
+    "conf": 0.9999643564224243,
+    "margin": 0.02924168109893799,
+    "low_conf": true
+  },
+  {
+    "qid": 201,
+    "question": "May a single female lay from several dozen to several thousand eggs during her lifetime ?",
+    "prediction": "[1699]",
+    "gold": "Yes.",
+    "context_ids": [
+      2322,
+      2331,
+      1213,
+      1699,
+      1574
+    ],
+    "conf": 0.9998935461044312,
+    "margin": 0.9594949334859848,
+    "low_conf": false
+  },
+  {
+    "qid": 202,
+    "question": "Can beetles be found in almost all habitats?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      2305,
+      2350,
+      2352,
+      2304,
+      2325
+    ],
+    "conf": 0.9933184385299683,
+    "margin": 0.00862807035446167,
+    "low_conf": true
+  },
+  {
+    "qid": 203,
+    "question": "What happened on plants and fungi?",
+    "prediction": "elm disease.",
+    "gold": "They are food to beetles.",
+    "context_ids": [
+      1229,
+      1223,
+      965,
+      2355,
+      741
+    ],
+    "conf": 0.28758513927459717,
+    "margin": 0.11769463121891022,
+    "low_conf": false
+  },
+  {
+    "qid": 204,
+    "question": "Was Calvin Coolidge the twenty-ninth vice president?",
+    "prediction": "I don't know.",
+    "gold": "no",
+    "context_ids": [
+      396,
+      415,
+      408,
+      412,
+      397
+    ],
+    "conf": 0.9999489784240723,
+    "margin": 0.005961179733276367,
+    "low_conf": true
+  },
+  {
+    "qid": 206,
+    "question": "Was Calvin Coolidge born in Plymouth, Windsor County, Vermont?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      399,
+      396,
+      402,
+      456,
+      408
+    ],
+    "conf": 0.9992565512657166,
+    "margin": 0.0009909868240356445,
+    "low_conf": true
+  },
+  {
+    "qid": 208,
+    "question": "Did Coolidge graduate from Black River Academy?",
+    "prediction": "[402]",
+    "gold": "yes",
+    "context_ids": [
+      402,
+      396,
+      453,
+      400,
+      408
+    ],
+    "conf": 0.9995236396789551,
+    "margin": 0.26603204011917114,
+    "low_conf": false
+  },
+  {
+    "qid": 210,
+    "question": "When did he drop John from his name?",
+    "prediction": "1829.",
+    "gold": "upon graduating from college",
+    "context_ids": [
+      567,
+      692,
+      689,
+      641,
+      74
+    ],
+    "conf": 0.6544613838195801,
+    "margin": 0.48830465972423553,
+    "low_conf": false
+  },
+  {
+    "qid": 212,
+    "question": "When did Coolidge meet and marry Grace Anna Goodhue?",
+    "prediction": "[404]",
+    "gold": "1905",
+    "context_ids": [
+      404,
+      402,
+      396,
+      406,
+      427
+    ],
+    "conf": 0.9998252987861633,
+    "margin": 0.07604223489761353,
+    "low_conf": false
+  },
+  {
+    "qid": 214,
+    "question": "What period of rapid economic growth did the United States experience during Coolidge's presidency?",
+    "prediction": "Massachusetts people.\"",
+    "gold": "the Roaring Twenties",
+    "context_ids": [
+      439,
+      396,
+      421,
+      408,
+      415
+    ],
+    "conf": 0.9999345541000366,
+    "margin": 0.07496356964111328,
+    "low_conf": false
+  },
+  {
+    "qid": 216,
+    "question": "What did Coolidge do after graduating from Amherst?",
+    "prediction": "I don't know.",
+    "gold": "Coolidge moved to Northampton, MassachuS08_setts",
+    "context_ids": [
+      403,
+      402,
+      453,
+      408,
+      396
+    ],
+    "conf": 0.9972851276397705,
+    "margin": 0.009922504425048828,
+    "low_conf": true
+  },
+  {
+    "qid": 218,
+    "question": "Of what state was Coolidge governor?",
+    "prediction": "I don't know.",
+    "gold": "MassachuS08_setts",
+    "context_ids": [
+      396,
+      415,
+      439,
+      423,
+      445
+    ],
+    "conf": 0.9997095465660095,
+    "margin": 0.007125198841094971,
+    "low_conf": true
+  },
+  {
+    "qid": 219,
+    "question": "Who appointed Harlan Fiske Stone to the Supreme Court?",
+    "prediction": "Ford.\"",
+    "gold": "Coolidge",
+    "context_ids": [
+      451,
+      450,
+      519,
+      687,
+      2010
+    ],
+    "conf": 0.953607439994812,
+    "margin": 0.5830514132976532,
+    "low_conf": false
+  },
+  {
+    "qid": 221,
+    "question": "Was Coolidge the thirteenth President of the United States?",
+    "prediction": "I don't know.",
+    "gold": "No",
+    "context_ids": [
+      396,
+      145,
+      415,
+      408,
+      397
+    ],
+    "conf": 0.9999357461929321,
+    "margin": 0.011989295482635498,
+    "low_conf": true
+  },
+  {
+    "qid": 223,
+    "question": "Was Calvin Coolidge Republican?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      415,
+      396,
+      408,
+      397,
+      407
+    ],
+    "conf": 0.9978212118148804,
+    "margin": 0.002324223518371582,
+    "low_conf": true
+  },
+  {
+    "qid": 225,
+    "question": "Was Calvin Coolidge a governor of MassachuS08_setts?",
+    "prediction": "Democrat.",
+    "gold": "Yes",
+    "context_ids": [
+      396,
+      408,
+      413,
+      407,
+      415
+    ],
+    "conf": 0.997247040271759,
+    "margin": 0.22569191455841064,
+    "low_conf": false
+  },
+  {
+    "qid": 227,
+    "question": "When was Coolidge born?",
+    "prediction": "[399] John Calvin Coolidge Jr. was born in Plymouth, Windsor County, Vermont, on July 4 1872, the only U.S. President to be born on the fourth of July.",
+    "gold": "July 4 1872",
+    "context_ids": [
+      396,
+      399,
+      446,
+      456,
+      2794
+    ],
+    "conf": 0.999392032623291,
+    "margin": 0.07769477367401123,
+    "low_conf": false
+  },
+  {
+    "qid": 229,
+    "question": "Where did Coolidge's grandfather had government offices?",
+    "prediction": "I don't know.",
+    "gold": "Plymouth",
+    "context_ids": [
+      401,
+      399,
+      403,
+      408,
+      415
+    ],
+    "conf": 0.9999147653579712,
+    "margin": 0.00012534856796264648,
+    "low_conf": true
+  },
+  {
+    "qid": 231,
+    "question": "Which state were Coolidge born in?",
+    "prediction": "I don't know.",
+    "gold": "Plymouth, Windsor County, Vermont",
+    "context_ids": [
+      396,
+      399,
+      453,
+      401,
+      403
+    ],
+    "conf": 0.996231734752655,
+    "margin": 0.0017898082733154297,
+    "low_conf": true
+  },
+  {
+    "qid": 233,
+    "question": "Is Calvin Jr. older than John Coolidge?",
+    "prediction": "Grace's reply was \"Did you marry me to darn your socks?\"",
+    "gold": "No",
+    "context_ids": [
+      396,
+      415,
+      404,
+      399,
+      408
+    ],
+    "conf": 0.9874405860900879,
+    "margin": 0.05110961198806763,
+    "low_conf": false
+  },
+  {
+    "qid": 235,
+    "question": "Did Coolidge get in Amherst College?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      402,
+      403,
+      453,
+      408,
+      2807
+    ],
+    "conf": 0.997787356376648,
+    "margin": 0.0014588236808776855,
+    "low_conf": true
+  },
+  {
+    "qid": 237,
+    "question": "What caused Calvin Jr.'s death?",
+    "prediction": "I don't know.",
+    "gold": "heart attack",
+    "context_ids": [
+      184,
+      2139,
+      259,
+      455,
+      520
+    ],
+    "conf": 0.9999567270278931,
+    "margin": 0.000966489315032959,
+    "low_conf": true
+  },
+  {
+    "qid": 239,
+    "question": "Was John Calvin Coolidge Jr. was born in Las Vegas?",
+    "prediction": "I don't know.",
+    "gold": "No",
+    "context_ids": [
+      396,
+      399,
+      427,
+      429,
+      454
+    ],
+    "conf": 0.9995439648628235,
+    "margin": 0.004815816879272461,
+    "low_conf": true
+  },
+  {
+    "qid": 241,
+    "question": "Was Coolidge opposed in the Republican nomination for Governor of MassachuS08_setts in 1918?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      415,
+      408,
+      420,
+      413,
+      422
+    ],
+    "conf": 0.9983260035514832,
+    "margin": 0.0010093450546264648,
+    "low_conf": true
+  },
+  {
+    "qid": 243,
+    "question": "Did Coolidge meet and marry Grace Anna Goodhue?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      404,
+      402,
+      427,
+      408,
+      424
+    ],
+    "conf": 0.9998202919960022,
+    "margin": 0.03747832775115967,
+    "low_conf": true
+  },
+  {
+    "qid": 245,
+    "question": "What year did Coolidge open his own law office?",
+    "prediction": "I don't know.",
+    "gold": "1898",
+    "context_ids": [
+      403,
+      396,
+      421,
+      448,
+      453
+    ],
+    "conf": 0.9998063445091248,
+    "margin": 0.014678239822387695,
+    "low_conf": true
+  },
+  {
+    "qid": 247,
+    "question": "What fraternity was Coolidge a member of?",
+    "prediction": "[402]",
+    "gold": "Phi Gamma Delta",
+    "context_ids": [
+      402,
+      396,
+      453,
+      400,
+      406
+    ],
+    "conf": 0.9992853999137878,
+    "margin": 0.15810918807983398,
+    "low_conf": false
+  },
+  {
+    "qid": 249,
+    "question": "In 1905 Coolidge met and married whom?",
+    "prediction": "\"Silent Cal\" joke.",
+    "gold": "Grace Anna Goodhue",
+    "context_ids": [
+      404,
+      427,
+      402,
+      424,
+      440
+    ],
+    "conf": 0.9999417066574097,
+    "margin": 0.08201903104782104,
+    "low_conf": false
+  },
+  {
+    "qid": 251,
+    "question": "Why did Coolidge not attend law school?",
+    "prediction": "I don't know.",
+    "gold": "It was too expensive",
+    "context_ids": [
+      2807,
+      289,
+      403,
+      1945,
+      408
+    ],
+    "conf": 0.9897717833518982,
+    "margin": 0.002079606056213379,
+    "low_conf": true
+  },
+  {
+    "qid": 253,
+    "question": "Have there been other US presidents that have visited Cuba?",
+    "prediction": "I don't know.",
+    "gold": "No",
+    "context_ids": [
+      2034,
+      692,
+      2022,
+      2837,
+      2128
+    ],
+    "conf": 0.14201383292675018,
+    "margin": 0.05525446683168411,
+    "low_conf": true
+  },
+  {
+    "qid": 255,
+    "question": "What years were Coolidge's two sons born in?",
+    "prediction": "I don't know.",
+    "gold": "1906 and 1908",
+    "context_ids": [
+      406,
+      404,
+      399,
+      396,
+      437
+    ],
+    "conf": 0.9959154725074768,
+    "margin": 0.004890859127044678,
+    "low_conf": true
+  },
+  {
+    "qid": 281,
+    "question": "Did France cede nearly all of its colonies in Europe in 1763?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      2216,
+      2207,
+      2217,
+      2586,
+      1103
+    ],
+    "conf": 0.3894101083278656,
+    "margin": 0.028476566076278687,
+    "low_conf": true
+  },
+  {
+    "qid": 284,
+    "question": "Is Canada a member of the OECD?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      2209,
+      2126,
+      2256,
+      2244,
+      2208
+    ],
+    "conf": 0.9999663829803467,
+    "margin": 2.5033950805664062e-06,
+    "low_conf": true
+  },
+  {
+    "qid": 287,
+    "question": "Is Canada's official language Zulu?",
+    "prediction": "I don't know.",
+    "gold": "No.",
+    "context_ids": [
+      2291,
+      2211,
+      2209,
+      2231,
+      2295
+    ],
+    "conf": 0.9999191761016846,
+    "margin": 0.00021141767501831055,
+    "low_conf": true
+  },
+  {
+    "qid": 290,
+    "question": "What is one significant non-official language?",
+    "prediction": "Chinese (853,745 first-language speakers), Italian (469,485), German (438,080), and Punjabi (271,220).",
+    "gold": "Chinese.",
+    "context_ids": [
+      1564,
+      2293,
+      1628,
+      2773,
+      2295
+    ],
+    "conf": 0.5564539432525635,
+    "margin": 0.2378070056438446,
+    "low_conf": false
+  },
+  {
+    "qid": 293,
+    "question": "In addition to Port Royal, where else did Samuel de Champlain establish a S08_settlement?",
+    "prediction": "[2214] French explorer Samuel de Champlain arrived in 1603 and established the first permanent European settlements at Port Royal in 1605 and Quebec City in 1608. These would become respectively the capitals of Acadia and Canada. Among French colonists of New France, Canadiens extensively settled the St. Lawrence River valley, Acadians settled the present-day Maritimes, while French fur traders and Catholic missionaries explored the Great Lakes, Hudson Bay and the Mississippi watershed to Louisiana. The French and Iroquois Wars broke out over control of the fur trade. [25",
+    "gold": "Quebec City",
+    "context_ids": [
+      2214,
+      2586,
+      1903,
+      728,
+      1306
+    ],
+    "conf": 0.9983844757080078,
+    "margin": 0.9721746761351824,
+    "low_conf": false
+  },
+  {
+    "qid": 295,
+    "question": "What was the Consitution Act formerly called?",
+    "prediction": "British North America Act",
+    "gold": "The British North America Act.",
+    "context_ids": [
+      2235,
+      678,
+      2112,
+      321,
+      2230
+    ],
+    "conf": 0.5543846487998962,
+    "margin": 0.4682703837752342,
+    "low_conf": false
+  },
+  {
+    "qid": 298,
+    "question": "Which countries established colonies in Canada?",
+    "prediction": "I don't know.",
+    "gold": "France and Britain.",
+    "context_ids": [
+      2223,
+      2256,
+      2218,
+      2207,
+      2221
+    ],
+    "conf": 0.9997816681861877,
+    "margin": 0.00027042627334594727,
+    "low_conf": true
+  },
+  {
+    "qid": 301,
+    "question": "How has Canada helped UN peacekeeping efforts?",
+    "prediction": "I don't know.",
+    "gold": "During the Suez Crisis of 1956, Lester B. Pearson eased tensions by proposing the inception of the United Nations Peacekeeping Force. Canada has since served in 50 peacekeeping missions, including every UN peacekeeping effort until 1989",
+    "context_ids": [
+      2248,
+      2244,
+      2226,
+      2227,
+      2220
+    ],
+    "conf": 0.9999481439590454,
+    "margin": 0.00017076730728149414,
+    "low_conf": true
+  },
+  {
+    "qid": 304,
+    "question": "What percentage of the population don't speak English or French at home?",
+    "prediction": "17.7%",
+    "gold": "28%",
+    "context_ids": [
+      44,
+      2293,
+      59,
+      2278,
+      2295
+    ],
+    "conf": 0.994931161403656,
+    "margin": 0.16339677572250366,
+    "low_conf": false
+  },
+  {
+    "qid": 307,
+    "question": "Is Canada bilingual?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      2292,
+      2293,
+      2295,
+      2291,
+      2209
+    ],
+    "conf": 0.99992835521698,
+    "margin": 7.963180541992188e-05,
+    "low_conf": true
+  },
+  {
+    "qid": 309,
+    "question": "Did Canadian soldiers win the Battle of Vimy Ridge in 1917?",
+    "prediction": "[2225] Canadian soldiers would win the Battle of Vimy Ridge in 1917.",
+    "gold": "Yes",
+    "context_ids": [
+      2225,
+      1739,
+      2226,
+      2252,
+      2066
+    ],
+    "conf": 0.9780290722846985,
+    "margin": 0.23437094688415527,
+    "low_conf": false
+  },
+  {
+    "qid": 311,
+    "question": "Is an official language of Canada German?",
+    "prediction": "I don't know.",
+    "gold": "No.",
+    "context_ids": [
+      2291,
+      2209,
+      2211,
+      2293,
+      2292
+    ],
+    "conf": 0.9999662637710571,
+    "margin": 0.0005880594253540039,
+    "low_conf": true
+  },
+  {
+    "qid": 313,
+    "question": "How many provinces and territories does Canada have?",
+    "prediction": "I don't know.",
+    "gold": "A federation now comprising ten provinces and three territories",
+    "context_ids": [
+      1546,
+      2209,
+      2256,
+      2234,
+      1547
+    ],
+    "conf": 0.9999661445617676,
+    "margin": 0.0002422928810119629,
+    "low_conf": true
+  },
+  {
+    "qid": 315,
+    "question": "What is Canada's national unemployment rate?",
+    "prediction": "I don't know.",
+    "gold": "While as of October 2007, Canada's national unemployment rate of 5.9% is its lowest in 33 years. Provincial unemployment rates vary from a low of 3.6% in Alberta to a high of 14.6% in Newfoundland and Labrador. ",
+    "context_ids": [
+      2276,
+      2293,
+      2270,
+      2660,
+      2278
+    ],
+    "conf": 0.9999663829803467,
+    "margin": 0.0006015896797180176,
+    "low_conf": true
+  },
+  {
+    "qid": 317,
+    "question": "Where is the most densely populated part of Canada?",
+    "prediction": "I don't know.",
+    "gold": "The most densely populated part of the country is the Quebec City-Windsor Corridor along the Great Lakes and Saint Lawrence River in the southeast.",
+    "context_ids": [
+      2276,
+      2291,
+      2260,
+      2266,
+      2280
+    ],
+    "conf": 0.9999653100967407,
+    "margin": 0.0003458261489868164,
+    "low_conf": true
+  },
+  {
+    "qid": 319,
+    "question": "What is the largest country in the world?",
+    "prediction": "I don't know.",
+    "gold": "Canada is the second largest country in the world, after Russia, and largest on the continent.",
+    "context_ids": [
+      2487,
+      919,
+      2624,
+      26,
+      2772
+    ],
+    "conf": 0.9997604489326477,
+    "margin": 0.000784456729888916,
+    "low_conf": true
+  },
+  {
+    "qid": 321,
+    "question": "What is the largest religious group in Canada?",
+    "prediction": "I don't know.",
+    "gold": "According to 2001 census, 77.1% of Canadians identified as being Christians; of this, Catholics make up the largest group (43.6% of Canadians). The largest Protestant denomination is the United Church of Canada; about 16.5% of Canadians declare no religious affiliation, and the remaining 6.3% were affiliated with religions other than Christianity, of which the largest is Islam numbering 1.9%, followed by Judaism: 1.1%. ",
+    "context_ids": [
+      2277,
+      2281,
+      2286,
+      2276,
+      2261
+    ],
+    "conf": 0.9111836552619934,
+    "margin": 0.04415392875671387,
+    "low_conf": true
+  },
+  {
+    "qid": 323,
+    "question": "When did Canada have one of the largest armed forces in the world?",
+    "prediction": "I don't know.",
+    "gold": "1944.",
+    "context_ids": [
+      2226,
+      2248,
+      2227,
+      2208,
+      2218
+    ],
+    "conf": 0.999002993106842,
+    "margin": 0.004337131977081299,
+    "low_conf": true
+  },
+  {
+    "qid": 325,
+    "question": "What have been inhabited for millennia by aboriginal peoples?",
+    "prediction": "I don't know.",
+    "gold": "The lands",
+    "context_ids": [
+      2207,
+      1511,
+      828,
+      1297,
+      751
+    ],
+    "conf": 0.9513939619064331,
+    "margin": 0.03168189525604248,
+    "low_conf": true
+  },
+  {
+    "qid": 326,
+    "question": "European books and maps began referring to this region as Canada in what year?",
+    "prediction": "Canada Act 1982 refers only to \"Canada\" and, as such, it is currently the only legal (and bilingual) name.",
+    "gold": "1545",
+    "context_ids": [
+      2210,
+      2211,
+      2213,
+      2218,
+      2214
+    ],
+    "conf": 0.9992275238037109,
+    "margin": 0.8871220126748085,
+    "low_conf": false
+  },
+  {
+    "qid": 327,
+    "question": "What was Canada's most important industry until the 1800s?",
+    "prediction": "[2212]",
+    "gold": "The fur trade",
+    "context_ids": [
+      2212,
+      2273,
+      2271,
+      2274,
+      2216
+    ],
+    "conf": 0.9887663722038269,
+    "margin": 0.15002316236495972,
+    "low_conf": false
+  },
+  {
+    "qid": 328,
+    "question": "Is it true that it angered many residents of the thirteen colonies?",
+    "prediction": "[2217] The Royal Proclamation (1763) carved the Province of Quebec out of New France and annexed Cape Breton Island to Nova Scotia.",
+    "gold": "yes",
+    "context_ids": [
+      2217,
+      2216,
+      1103,
+      1308,
+      2223
+    ],
+    "conf": 0.9731342792510986,
+    "margin": 0.9652087083086371,
+    "low_conf": false
+  },
+  {
+    "qid": 329,
+    "question": "How do cuba and declining participation relate?",
+    "prediction": "in the Iraq War.",
+    "gold": "Canada maintains full relations with both.",
+    "context_ids": [
+      2244,
+      53,
+      2128,
+      5,
+      55
+    ],
+    "conf": 0.5300024747848511,
+    "margin": 0.5120973940938711,
+    "low_conf": false
+  },
+  {
+    "qid": 330,
+    "question": "Is it true that provinces have a large degree of autonomy?",
+    "prediction": "[3063] The country is further subdivided into 319 cities and 2686 communes (rural localities).",
+    "gold": "yes",
+    "context_ids": [
+      2256,
+      1547,
+      3063,
+      2257,
+      1546
+    ],
+    "conf": 0.9933423399925232,
+    "margin": 0.1766282320022583,
+    "low_conf": false
+  },
+  {
+    "qid": 331,
+    "question": "What did Canada adopt in 1965?",
+    "prediction": "I don't know.",
+    "gold": "The Maple Leaf Flag",
+    "context_ids": [
+      2235,
+      2223,
+      2248,
+      2208,
+      2224
+    ],
+    "conf": 0.9994396567344666,
+    "margin": 0.039965808391571045,
+    "low_conf": true
+  },
+  {
+    "qid": 332,
+    "question": "What arrived in Britain?",
+    "prediction": "I don't know.",
+    "gold": "The first Canadian Army units in WW II",
+    "context_ids": [
+      2470,
+      2216,
+      2207,
+      2630,
+      1297
+    ],
+    "conf": 0.9997648596763611,
+    "margin": 0.009430527687072754,
+    "low_conf": true
+  },
+  {
+    "qid": 333,
+    "question": "Are Canada 's two official languages English and French ?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      2295,
+      2292,
+      2209,
+      2244,
+      2293
+    ],
+    "conf": 0.9995331764221191,
+    "margin": 5.120038986206055e-05,
+    "low_conf": true
+  },
+  {
+    "qid": 334,
+    "question": "Are Canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      2289,
+      2290,
+      2256,
+      2260,
+      2206
+    ],
+    "conf": 0.9999169111251831,
+    "margin": 0.00155717134475708,
+    "low_conf": true
+  },
+  {
+    "qid": 335,
+    "question": "Is Canada a geographically vast and ethnically diverse country ?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      2286,
+      2261,
+      2276,
+      2260,
+      2256
+    ],
+    "conf": 0.9996007084846497,
+    "margin": 0.00013375282287597656,
+    "low_conf": true
+  },
+  {
+    "qid": 336,
+    "question": "Did Mainland Nova Scotia not come under British rule with the Treaty of Utrecht    (: ; ?",
+    "prediction": "Singapore River.",
+    "gold": "no!",
+    "context_ids": [
+      2216,
+      1306,
+      2223,
+      2622,
+      2114
+    ],
+    "conf": 0.9845083951950073,
+    "margin": 0.7976659834384918,
+    "low_conf": false
+  },
+  {
+    "qid": 337,
+    "question": "Did Cartier not use the word ` Canada ' to refer to not only that village , but the entire area subject to Donnacona , Chief at Stadacona ?",
+    "prediction": "United States.",
+    "gold": "yes",
+    "context_ids": [
+      2210,
+      2211,
+      2206,
+      2218,
+      2260
+    ],
+    "conf": 0.9999663829803467,
+    "margin": 0.9536178708076477,
+    "low_conf": false
+  },
+  {
+    "qid": 338,
+    "question": "Did continental European immigrants not S08_settle the prairies ?",
+    "prediction": "I don't know.",
+    "gold": "no",
+    "context_ids": [
+      44,
+      2224,
+      2214,
+      2216,
+      45
+    ],
+    "conf": 0.1689932942390442,
+    "margin": 0.1304873302578926,
+    "low_conf": true
+  },
+  {
+    "qid": 339,
+    "question": "Is it the world 's second largest country by total area?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      2206,
+      2260,
+      2624,
+      26,
+      788
+    ],
+    "conf": 0.9995038509368896,
+    "margin": 0.02740347385406494,
+    "low_conf": true
+  },
+  {
+    "qid": 340,
+    "question": "What happened in 1867?",
+    "prediction": "I don't know.",
+    "gold": "Canada was formed as a federal, semi-autonomous polity",
+    "context_ids": [
+      2208,
+      2223,
+      1767,
+      1518,
+      2221
+    ],
+    "conf": 0.9980217218399048,
+    "margin": 0.019359290599822998,
+    "low_conf": true
+  },
+  {
+    "qid": 341,
+    "question": "Are ducks in the Arctic Northern Hemisphere migratory?",
+    "prediction": "I don't know.",
+    "gold": "Some are",
+    "context_ids": [
+      3079,
+      3100,
+      3080,
+      966,
+      973
+    ],
+    "conf": 0.9994603991508484,
+    "margin": 0.001307845115661621,
+    "low_conf": true
+  },
+  {
+    "qid": 343,
+    "question": "Is a drake a male?",
+    "prediction": "Kangaroos.",
+    "gold": "Yes",
+    "context_ids": [
+      3086,
+      1707,
+      1039,
+      1672,
+      2526
+    ],
+    "conf": 0.9028717875480652,
+    "margin": 0.7489270269870758,
+    "low_conf": false
+  },
+  {
+    "qid": 345,
+    "question": "Do all ducks \"quack\"?",
+    "prediction": "I don't know.",
+    "gold": "No",
+    "context_ids": [
+      3076,
+      931,
+      3088,
+      940,
+      937
+    ],
+    "conf": 0.9753912687301636,
+    "margin": 0.03914076089859009,
+    "low_conf": true
+  },
+  {
+    "qid": 347,
+    "question": "What is the name of a specialized species of duck adapted to catch large fish?",
+    "prediction": "smew, goosander, and the mergansers",
+    "gold": "the smew",
+    "context_ids": [
+      3084,
+      3088,
+      3089,
+      3077,
+      3094
+    ],
+    "conf": 0.8175118565559387,
+    "margin": 0.48252150416374207,
+    "low_conf": false
+  },
+  {
+    "qid": 348,
+    "question": "What animal attracts the most humor and silliness?",
+    "prediction": "duck",
+    "gold": "The duck",
+    "context_ids": [
+      3102,
+      1707,
+      1202,
+      1275,
+      1013
+    ],
+    "conf": 0.7661692500114441,
+    "margin": 0.5408516079187393,
+    "low_conf": false
+  },
+  {
+    "qid": 350,
+    "question": "What is an economic use of a duck?",
+    "prediction": "farmed for their meat, eggs, feathers, (particularly their down)",
+    "gold": "Meat",
+    "context_ids": [
+      3094,
+      3090,
+      3077,
+      3076,
+      3079
+    ],
+    "conf": 0.9626032710075378,
+    "margin": 0.24534529447555542,
+    "low_conf": false
+  },
+  {
+    "qid": 352,
+    "question": "Who is Daffy Duck?",
+    "prediction": "I don't know.",
+    "gold": "A silly cartoon character",
+    "context_ids": [
+      1231,
+      1685,
+      3102,
+      3076,
+      3090
+    ],
+    "conf": 0.04016484320163727,
+    "margin": 0.017212413251399994,
+    "low_conf": true
+  },
+  {
+    "qid": 354,
+    "question": "What makes it more difficult for a diving duck to fly?",
+    "prediction": "[3081]",
+    "gold": "They are heavier",
+    "context_ids": [
+      3081,
+      3090,
+      3089,
+      1702,
+      1864
+    ],
+    "conf": 0.9969891905784607,
+    "margin": 0.7773713171482086,
+    "low_conf": false
+  },
+  {
+    "qid": 356,
+    "question": "What are the reasons for hunting wild ducks?",
+    "prediction": "I don't know.",
+    "gold": "Meat, eggs, and feathers",
+    "context_ids": [
+      3090,
+      1007,
+      3080,
+      3093,
+      3100
+    ],
+    "conf": 0.9847721457481384,
+    "margin": 0.00038909912109375,
+    "low_conf": true
+  },
+  {
+    "qid": 357,
+    "question": "Do ducks forage underwater?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      3080,
+      1864,
+      3088,
+      931,
+      3090
+    ],
+    "conf": 0.9868227243423462,
+    "margin": 0.00043952465057373047,
+    "low_conf": true
+  },
+  {
+    "qid": 361,
+    "question": "Is foie gras often made from ducks?",
+    "prediction": "Foie gras is often made using the liver of domestic ducks, rather than of geese.",
+    "gold": "yes",
+    "context_ids": [
+      3096,
+      1864,
+      3087,
+      1706,
+      3088
+    ],
+    "conf": 0.9918531775474548,
+    "margin": 0.9028405174612999,
+    "low_conf": false
+  },
+  {
+    "qid": 363,
+    "question": "What economic uses to ducks have?",
+    "prediction": "farmed for their meat, eggs, feathers, (particularly their down)",
+    "gold": "They are farmed for their meat, eggs and feathers. They are also kept and bred by aviculturists and often displayed in zoos.",
+    "context_ids": [
+      3094,
+      3090,
+      3088,
+      3077,
+      3079
+    ],
+    "conf": 0.9752902388572693,
+    "margin": 0.3456695079803467,
+    "low_conf": false
+  },
+  {
+    "qid": 365,
+    "question": "What kind of ducks feed on land?",
+    "prediction": "I don't know.",
+    "gold": "Dabbling ducks",
+    "context_ids": [
+      3088,
+      3094,
+      3080,
+      1706,
+      3084
+    ],
+    "conf": 0.999711811542511,
+    "margin": 0.0028910040855407715,
+    "low_conf": true
+  },
+  {
+    "qid": 367,
+    "question": "What unrelated water birds are ducks sometimes confused with?",
+    "prediction": "loons or divers, grebes, gallinules, and coots",
+    "gold": "loons or divers, grebes, gallinules, and coots",
+    "context_ids": [
+      3078,
+      3076,
+      3097,
+      3088,
+      3080
+    ],
+    "conf": 0.9999570846557617,
+    "margin": 0.9172990098595619,
+    "low_conf": false
+  },
+  {
+    "qid": 369,
+    "question": "What does the word duck mean?",
+    "prediction": "I don't know.",
+    "gold": "It is the common name for a number of species in the Anatidae family of birds.",
+    "context_ids": [
+      3076,
+      3090,
+      3094,
+      3093,
+      1287
+    ],
+    "conf": 0.9995412826538086,
+    "margin": 0.00035768747329711914,
+    "low_conf": true
+  },
+  {
+    "qid": 371,
+    "question": "What are some common predators of ducks?",
+    "prediction": "I don't know.",
+    "gold": "Pike, crocodilians, herons, hawks and eagles.",
+    "context_ids": [
+      3084,
+      3094,
+      3077,
+      3087,
+      3078
+    ],
+    "conf": 0.9999336004257202,
+    "margin": 0.00019556283950805664,
+    "low_conf": true
+  },
+  {
+    "qid": 373,
+    "question": "How does a Mallard's tongue work?",
+    "prediction": "[3085] * Submission (active) During active submission, the entire body is lowered, and the lips and ears are drawn back. Sometimes active submission is accompanied by muzzle licking, or the rapid thrusting out of the tongue and lowering of the hindquarters. The tail is placed down, or halfway or fully between the legs, and the muzzle often points up to the more dominant animal.",
+    "gold": "It's tongue is a flat plate, and on the tongue's back end is a short liftable flap with about 18 short spikes for pushing struggling prey and other food down its throat",
+    "context_ids": [
+      3085,
+      2313,
+      1015,
+      1212,
+      2293
+    ],
+    "conf": 0.9818425178527832,
+    "margin": 0.9711836436763406,
+    "low_conf": false
+  },
+  {
+    "qid": 375,
+    "question": "Are diving ducks heavier tha dabbling ducks?",
+    "prediction": "Diving ducks and sea ducks forage deep underwater. To be able to submerge more easily, the diving ducks are heavier than dabbling ducks, and therefore have more difficulty taking off to fly.",
+    "gold": "Yes",
+    "context_ids": [
+      3081,
+      3082,
+      3090,
+      1702,
+      1864
+    ],
+    "conf": 0.9996969699859619,
+    "margin": 0.9536753371357918,
+    "low_conf": false
+  },
+  {
+    "qid": 377,
+    "question": "Are adult ducks fast fliers?",
+    "prediction": "I don't know.",
+    "gold": "Yes",
+    "context_ids": [
+      3089,
+      3088,
+      1007,
+      1677,
+      3079
+    ],
+    "conf": 0.9990758895874023,
+    "margin": 0.007190108299255371,
+    "low_conf": true
+  },
+  {
+    "qid": 379,
+    "question": "Are ducks an accepted presence in some populated areas?",
+    "prediction": "[3080]",
+    "gold": "Yes",
+    "context_ids": [
+      3100,
+      3080,
+      1542,
+      3088,
+      3094
+    ],
+    "conf": 0.9949721097946167,
+    "margin": 0.0768006443977356,
+    "low_conf": false
+  },
+  {
+    "qid": 381,
+    "question": "What types of unrelated water birds with similar forms are ducks sometimes confused with?",
+    "prediction": "loons or divers, grebes, gallinules, and coots",
+    "gold": "loons or divers, grebes, gallinules, and coots",
+    "context_ids": [
+      3078,
+      3088,
+      3080,
+      3097,
+      3076
+    ],
+    "conf": 0.9999665021896362,
+    "margin": 0.907110333442688,
+    "low_conf": false
+  },
+  {
+    "qid": 383,
+    "question": "Why are ducklings particularly vulnerable?",
+    "prediction": "I don't know.",
+    "gold": "Their inability to fly.",
+    "context_ids": [
+      3088,
+      1209,
+      1871,
+      1864,
+      3079
+    ],
+    "conf": 0.9998173117637634,
+    "margin": 0.005100846290588379,
+    "low_conf": true
+  },
+  {
+    "qid": 385,
+    "question": "What are some economic uses for duck?",
+    "prediction": "What are ducks mostly aquatic birds?",
+    "gold": "Meat,eggs,feathers",
+    "context_ids": [
+      3094,
+      3090,
+      3077,
+      3088,
+      3076
+    ],
+    "conf": 0.9866803288459778,
+    "margin": 0.36745285987854004,
+    "low_conf": false
+  },
+  {
+    "qid": 387,
+    "question": "What allows a duck to filter water out of the side of their beaks and keep food inside?",
+    "prediction": "lamellae",
+    "gold": "Tiny rows of plates called lamellae",
+    "context_ids": [
+      3083,
+      3077,
+      3082,
+      3094,
+      3078
+    ],
+    "conf": 0.9850777387619019,
+    "margin": 0.9397590048611164,
+    "low_conf": false
+  },
+  {
+    "qid": 389,
+    "question": "What expression is part of a conceptual framework for testing computer systems?",
+    "prediction": "Duck test",
+    "gold": "Quacks like a duck",
+    "context_ids": [
+      3106,
+      260,
+      570,
+      977,
+      545
+    ],
+    "conf": 0.435063898563385,
+    "margin": 0.43126959237270057,
+    "low_conf": false
+  },
+  {
+    "qid": 391,
+    "question": "Where did the expression \"a sitting duck\" come from?",
+    "prediction": "I don't know.",
+    "gold": "In many areas, wild duckof various species (including ducks farmed and released into the wild) are hunted for food or sport, by shooting, or formerly by decoys.",
+    "context_ids": [
+      3093,
+      3090,
+      1272,
+      975,
+      3091
+    ],
+    "conf": 0.555851399898529,
+    "margin": 0.047456979751586914,
+    "low_conf": true
+  },
+  {
+    "qid": 393,
+    "question": "Is Egypt bordered by the Gaza Strip?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      821,
+      822,
+      921,
+      906,
+      888
+    ],
+    "conf": 0.999964714050293,
+    "margin": 0.007012665271759033,
+    "low_conf": true
+  },
+  {
+    "qid": 395,
+    "question": "Is Egypt the most populated country in Africa?",
+    "prediction": "I don't know.",
+    "gold": "no",
+    "context_ids": [
+      1297,
+      919,
+      906,
+      822,
+      921
+    ],
+    "conf": 0.9997749924659729,
+    "margin": 0.0006909966468811035,
+    "low_conf": true
+  },
+  {
+    "qid": 397,
+    "question": "Does Egypt have political influence in the Middle East?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      921,
+      821,
+      860,
+      906,
+      861
+    ],
+    "conf": 0.9999666213989258,
+    "margin": 0.0,
+    "low_conf": true
+  },
+  {
+    "qid": 399,
+    "question": "When was the Six Day War?",
+    "prediction": "[2109] President Wilson before Congress, announcing the break in official relations with Germany. February 3, 1917. [2109] President Wilson before Congress, announcing the break in official relations with Germany. February 3, 1917. [2109] President Wilson before Congress, announcing the break in official relations with Germany. February 3, 1917. [2109] President Wilson before Congress, announcing the break in official relations with Germany. February 3, 1917. [2109] President Wilson before Congress, announcing the break in official relations with Germany. February 3, 1917. [2109] President Wilson before Congress",
+    "gold": "1967",
+    "context_ids": [
+      677,
+      2109,
+      705,
+      843,
+      2066
+    ],
+    "conf": 0.7647265195846558,
+    "margin": 0.6509889364242554,
+    "low_conf": false
+  },
+  {
+    "qid": 401,
+    "question": "What religions has Egypt outlawed?",
+    "prediction": "I don't know.",
+    "gold": "All but Christianity, Islam, and Judaism",
+    "context_ids": [
+      851,
+      873,
+      893,
+      836,
+      833
+    ],
+    "conf": 0.9997864365577698,
+    "margin": 0.00040262937545776367,
+    "low_conf": true
+  },
+  {
+    "qid": 403,
+    "question": "What is the poulation of Egypt?",
+    "prediction": "I don't know.",
+    "gold": "more than 78 million",
+    "context_ids": [
+      821,
+      888,
+      822,
+      921,
+      833
+    ],
+    "conf": 0.9939996004104614,
+    "margin": 0.0020620226860046387,
+    "low_conf": true
+  },
+  {
+    "qid": 405,
+    "question": "Why does most of Egypt's population live near the Nile?",
+    "prediction": "I don't know.",
+    "gold": "the only arable agricultural land is found there,",
+    "context_ids": [
+      921,
+      822,
+      828,
+      920,
+      888
+    ],
+    "conf": 0.9890176057815552,
+    "margin": 0.013637542724609375,
+    "low_conf": true
+  },
+  {
+    "qid": 407,
+    "question": "Are there a large number of Jews living in Egypt today?",
+    "prediction": "I don't know.",
+    "gold": "no",
+    "context_ids": [
+      888,
+      900,
+      889,
+      893,
+      892
+    ],
+    "conf": 0.9999591112136841,
+    "margin": 0.00015980005264282227,
+    "low_conf": true
+  },
+  {
+    "qid": 409,
+    "question": "During what period was Akhenaten a Pharaoh?",
+    "prediction": "Egypt.",
+    "gold": "The New Kingdom (c.1550&#8722;1070 BC) ",
+    "context_ids": [
+      833,
+      835,
+      830,
+      2984,
+      832
+    ],
+    "conf": 0.5861994028091431,
+    "margin": 0.5300917364656925,
+    "low_conf": false
+  },
+  {
+    "qid": 411,
+    "question": "Is Egypt in Asia?",
+    "prediction": "I don't know.",
+    "gold": "No.",
+    "context_ids": [
+      821,
+      822,
+      823,
+      888,
+      906
+    ],
+    "conf": 0.9999483823776245,
+    "margin": 0.0005895495414733887,
+    "low_conf": true
+  },
+  {
+    "qid": 412,
+    "question": "Does Egypt receive the least rainfall in the world?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      821,
+      822,
+      926,
+      922,
+      921
+    ],
+    "conf": 0.9997690320014954,
+    "margin": 0.0005279183387756348,
+    "low_conf": true
+  },
+  {
+    "qid": 414,
+    "question": "Does Egypt's foreign policy operates along moderate lines?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      861,
+      884,
+      921,
+      874,
+      876
+    ],
+    "conf": 0.9999663829803467,
+    "margin": 0.00014823675155639648,
+    "low_conf": true
+  },
+  {
+    "qid": 416,
+    "question": "Since when has Egypt been a republic?",
+    "prediction": "I don't know.",
+    "gold": "June 18 1953.",
+    "context_ids": [
+      833,
+      845,
+      830,
+      860,
+      837
+    ],
+    "conf": 0.999966025352478,
+    "margin": 2.6226043701171875e-06,
+    "low_conf": true
+  },
+  {
+    "qid": 418,
+    "question": "When were the Great Sphinx and the Pyramids of Giza built?",
+    "prediction": "[829] By about 6000 BC, organized agriculture and large building construction had appeared in the Nile Valley. During the Neolithic era, several predynastic cultures developed independently in Upper and Lower Egypt. The Badarian culture and the successor Naqada series are generally regarded as precursors to Dynastic Egyptian civilization. The earliest known Lower Egyptian site, Merimda, predates the Badarian by about seven hundred years. Contemporaneous Lower Egyptian communities coexisted with their southern counterparts for more than two thousand years, remaining somewhat culturally separate",
+    "gold": "During the Old Kingdom.",
+    "context_ids": [
+      831,
+      829,
+      823,
+      830,
+      3056
+    ],
+    "conf": 0.8886362314224243,
+    "margin": 0.5243590474128723,
+    "low_conf": false
+  },
+  {
+    "qid": 420,
+    "question": "What countries border Egypt?",
+    "prediction": "I don't know.",
+    "gold": "Libya, Sudan, the Gaza Strip and Israel.",
+    "context_ids": [
+      921,
+      821,
+      919,
+      874,
+      906
+    ],
+    "conf": 0.9988197684288025,
+    "margin": 0.00027436017990112305,
+    "low_conf": true
+  },
+  {
+    "qid": 422,
+    "question": "What is the estimated population of Egypt?",
+    "prediction": "I don't know.",
+    "gold": "More than 78 million.",
+    "context_ids": [
+      888,
+      919,
+      822,
+      821,
+      889
+    ],
+    "conf": 0.9929585456848145,
+    "margin": 0.011367201805114746,
+    "low_conf": true
+  },
+  {
+    "qid": 424,
+    "question": "Does snow fall in Egypt?",
+    "prediction": "I don't know.",
+    "gold": "Yes.",
+    "context_ids": [
+      32,
+      926,
+      925,
+      33,
+      821
+    ],
+    "conf": 0.9901635050773621,
+    "margin": 0.009037375450134277,
+    "low_conf": true
+  },
+  {
+    "qid": 426,
+    "question": "When did organized agriculture appear in the Nile Valley?",
+    "prediction": "I don't know.",
+    "gold": "6000 BC.",
+    "context_ids": [
+      1307,
+      828,
+      829,
+      39,
+      822
+    ],
+    "conf": 0.9935770630836487,
+    "margin": 0.004948735237121582,
+    "low_conf": true
+  },
+  {
+    "qid": 428,
+    "question": "Are elephants the largest land animals alive today?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      1139,
+      1289,
+      1198,
+      1229,
+      1154
+    ],
+    "conf": 0.9927279949188232,
+    "margin": 0.0009754300117492676,
+    "low_conf": true
+  },
+  {
+    "qid": 430,
+    "question": "Can an elephant kill a rhinoceros?",
+    "prediction": "elephants may take lions.",
+    "gold": "yes",
+    "context_ids": [
+      1289,
+      1274,
+      1209,
+      1141,
+      1137
+    ],
+    "conf": 0.8640276193618774,
+    "margin": 0.6085827648639679,
+    "low_conf": false
+  },
+  {
+    "qid": 432,
+    "question": "Are elephants good swimmers?",
+    "prediction": "I don't know.",
+    "gold": "yes",
+    "context_ids": [
+      1170,
+      1199,
+      1193,
+      1159,
+      1189
+    ],
+    "conf": 0.9780575633049011,
+    "margin": 0.027436435222625732,
+    "low_conf": true
+  },
+  {
+    "qid": 434,
+    "question": "How many living species of African Elephants are there?",
+    "prediction": "I don't know.",
+    "gold": "2",
+    "context_ids": [
+      1143,
+      1137,
+      1156,
+      1150,
+      1152
+    ],
+    "conf": 0.9998970031738281,
+    "margin": 8.016824722290039e-05,
+    "low_conf": true
+  },
+  {
+    "qid": 436,
+    "question": "How long may elephants live?",
+    "prediction": "I don't know.",
+    "gold": "70 years",
+    "context_ids": [
+      1199,
+      1139,
+      1219,
+      1156,
+      1137
+    ],
+    "conf": 0.9905667901039124,
+    "margin": 0.002793550491333008,
+    "low_conf": true
+  },
+  {
+    "qid": 438,
+    "question": "Why does the phrase 'elephants never forget' have no metaphorical meaning?",
+    "prediction": "it refers literally to elephants supposedly having an excellent memory.",
+    "gold": "it refers literally to elephants supposedly having an excellent memory",
+    "context_ids": [
+      1249,
+      1140,
+      1138,
+      1137,
+      1271
+    ],
+    "conf": 0.999484658241272,
+    "margin": 0.6090966165065765,
+    "low_conf": false
+  },
+  {
+    "qid": 440,
+    "question": "How many living species of Asian Elephants are there?",
+    "prediction": "I don't know.",
+    "gold": "1",
+    "context_ids": [
+      1143,
+      1162,
+      1156,
+      1137,
+      1165
+    ],
+    "conf": 0.9999152421951294,
+    "margin": 0.0006017684936523438,
+    "low_conf": true
+  },
+  {
+    "qid": 442,
+    "question": "How much do elephants weight at birth?",
+    "prediction": "I don't know.",
+    "gold": "120 kilograms",
+    "context_ids": [
+      1219,
+      1213,
+      1139,
+      1216,
+      1175
+    ],
+    "conf": 0.9991692304611206,
+    "margin": 0.0007720589637756348,
+    "low_conf": true
+  },
+  {
+    "qid": 444,
+    "question": "What did Aristotle say about elephants?",
+    "prediction": "\"the beast which passeth all others in wit and mind.\"",
+    "gold": "the beast which pasS08_seth all others in wit and mind",
+    "context_ids": [
+      1140,
+      1249,
+      1137,
+      1138,
+      1246
+    ],
+    "conf": 0.5370884537696838,
+    "margin": 0.369294211268425,
+    "low_conf": false
+  }
+]
