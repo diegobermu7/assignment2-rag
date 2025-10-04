@@ -125,5 +125,3 @@ Key additions:
 - **Milvus schema errors**: set `--milvus_drop` or delete `rag_wikipedia_mini.db` before re-running if the schema has changed.
 - **GPU memory issues**: reduce `--max_new_tokens` or switch to a smaller generator model (`google/flan-t5-small`).
 - **RAGAS throughput**: lower `RAGAS_WORKERS` or reduce `RAGAS_BATCH` when rate-limited; use `RAGAS_SAMPLE_N` for quick smoke tests.
-
-Happy experimenting!
